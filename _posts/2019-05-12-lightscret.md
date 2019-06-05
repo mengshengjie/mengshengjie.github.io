@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【笔记】灯光的秘密
+title: "【笔记】灯光的秘密"
 categories: 突破真实与虚拟的界限
 tags: 灯光
 author: zukking

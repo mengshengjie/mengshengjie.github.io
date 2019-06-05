@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【分享】使用Jekyll搭建自己的Github博客
+title: "【分享】使用Jekyll搭建自己的Github博客"
 categories: 基本能力
 tags: blog
 author: zukking
@@ -41,8 +41,3 @@ fork一个过来
 
 
 通过Typora编辑Md文件
-
-
-
-
-
