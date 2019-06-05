@@ -1,13 +1,17 @@
 ---
 layout: post
 title: "【笔记】灯光的秘密"
-categories: 突破真实与虚拟的界限
+categories: 灯光
 tags: 灯光
 author: zukking
 ---
 
 * content
 {:toc}
+
+
+
+
 # 灯光的秘密
 
 基本原理一：光与影
